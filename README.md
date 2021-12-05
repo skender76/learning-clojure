@@ -1,10 +1,10 @@
 # learning-clojure
 
-A Clojure library designed to ... well, that part is up to you.
+Experiments from Clojure for Java Developers book
 
 ## Usage
 
-FIXME
+Introduction to Clojure namespaces, functions, test and other basic concepts
 
 ## License
 
